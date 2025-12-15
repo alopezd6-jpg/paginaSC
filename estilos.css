@@ -1,3 +1,9 @@
+/* ====== IMÁGENES RESPONSIVAS (OBLIGATORIO) ====== */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* ====== ESTILO GENERAL ====== */
 body {
     background-color: #000;
@@ -162,3 +168,4 @@ h1 {
         box-shadow: 0 0 8px #8000ff;
     }
 }
+
