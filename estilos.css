@@ -30,6 +30,20 @@ body {
         0 0 40px #8000ff;           /* PURPURAA */
 }
 
+/* ====== IMAGEN EXTRA MENÚ PRINCIPAL ====== */
+.imagen-menu-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.imagen-menu {
+    width: 90%;
+    max-width: 420px;
+    border-radius: 18px;
+    box-shadow: 0 0 25px #ff00ff;
+}
+
+
 /* ====== TITULO NEÓN ====== */
 h1 {
     font-size: 35px;
@@ -168,4 +182,5 @@ h1 {
         box-shadow: 0 0 8px #8000ff;
     }
 }
+
 
